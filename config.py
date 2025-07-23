@@ -16,3 +16,6 @@ GOOGLE_API_KEY = "AIzaFakeGoogleAPIKey123456789"
 # Database Credentials 
 DB_USER = "admin"
 DB_PASSWORD = "123"
+
+#Perplexity creds
+PERPLEXITY_API_KEY="ANJHDJHncncsjsh1234"
