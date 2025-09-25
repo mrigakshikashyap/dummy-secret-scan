@@ -1,2 +1,2 @@
 # accuknox-scan-test
-to test ASPM scanners
+to test ASPM scanners.
